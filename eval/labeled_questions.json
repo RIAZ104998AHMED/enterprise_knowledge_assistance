@@ -1,0 +1,34 @@
+[
+    {
+        "question": "Who founded Google?",
+        "ground_truth": [ "13_nq_0" ]
+    },
+    {
+        "question": "When is the last episode of season 8 of The Walking Dead?",
+        "ground_truth": [ "3_nq_0" ]
+    },
+    {
+        "question": "In Greek mythology, who was the goddess of spring growth?",
+        "ground_truth": [ "4_nq_0" ]
+    },
+    {
+        "question": "What is the company password rotation policy?",
+        "ground_truth": [ "0_nq_0", "0_nq_1" ]
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "ground_truth": [ "18_nq_0" ]
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "ground_truth": [ "17_nq_0" ]
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "ground_truth": [ "21_nq_0" ]
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "ground_truth": [ "29_nq_0" ]
+    }
+]
