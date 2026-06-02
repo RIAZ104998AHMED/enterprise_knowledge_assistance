@@ -12,7 +12,7 @@ RERANK_TOP_N = 5         # Number of candidates to return after reranking
 # ----------------------
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 SYNTHESIZER_MODEL = "openai/gpt-3.5-turbo"
-OPENROUTER_API_KEY = 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
+OPENROUTER_API_KEY = "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"
 SAFETY_MODEL = "mistralai/mistral-7b-instruct"
 
 # ----------------------
