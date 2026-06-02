@@ -1,0 +1,15 @@
+# Python packages for the Enterprise Knowledge Assistant
+
+# Vector store + embeddings
+faiss-cpu
+sentence-transformers
+nltk
+rank_bm25
+
+# LLM
+openai
+pydantic
+
+# Utilities
+python-dotenv
+tqdm
